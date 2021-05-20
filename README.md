@@ -1,1 +1,0 @@
-# Mean-Stack-Social-Login
